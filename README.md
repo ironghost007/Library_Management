@@ -1,5 +1,6 @@
 # Library Management
-This is a high school project in C++. This is to be excuted only in turbo C++ IDE.
+This is a high school project in C++. It is to be excuted only in turbo C++ IDE.
+
 #### Main concepts illustrated:
 1. Classes
 2. File Handling 
@@ -15,7 +16,7 @@ This is a high school project in C++. This is to be excuted only in turbo C++ ID
 ![This is an image](https://github.com/ironghost007/Library_Management/blob/main/Screecnshots/Screenshot%20(331).png)
 
 #### Data Input: 
-Book data - Name, aurthor, no. of copies 
+Book data - Name, author, no. of copies 
 
 You can input book data at the start of the program execution when prompted.
 
