@@ -11,7 +11,8 @@ This is a high school level library management system project written in C++. Th
   1. Borrow
   2. Return
   3. Check
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+
+![This is an image](Screecnshots/Screenshot (331).png)
 
 #### Data Input: 
 Book data - Name, aurthor, no. of copies 
