@@ -691,11 +691,11 @@ void main()
 
 	fstream bkfile("LIST.dat",ios::binary|ios::app|ios::in);
 
- /*  for(int i=0;i<RECORDS;i++) | The File already
-	 {                          | has data
-	   books.input();           | in
-	   bkfile.write((char*)&books,sizeof(books)); | it
-	 }  */
+ 	for(int i=0;i<RECORDS;i++) 			//
+	 {                          			/* This block of code takes input data from the user at start */
+	   books.input();           			//
+	   bkfile.write((char*)&books,sizeof(books)); 	//
+	 }  						//
 	bkfile.seekg(0);
 	clrscr();
 
