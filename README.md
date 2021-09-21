@@ -12,7 +12,7 @@ This is a high school level library management system project written in C++. Th
   2. Return
   3. Check
 
-![This is an image](Screecnshots/Screenshot (331).png)
+![This is an image](https://github.com/ironghost007/Library_Management/blob/main/Screecnshots/Screenshot%20(331).png)
 
 #### Data Input: 
 Book data - Name, aurthor, no. of copies 
