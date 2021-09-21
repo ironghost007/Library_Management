@@ -1,5 +1,5 @@
 # Library Management
-This is a high school level library management system project written in C++. This is to be excuted only in turbo C++ IDE.
+This is a high school project in C++. This is to be excuted only in turbo C++ IDE.
 #### Main concepts illustrated:
 1. Classes
 2. File Handling 
