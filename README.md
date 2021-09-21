@@ -24,3 +24,5 @@ You can input book data at the start of the program execution when prompted.
 
 You can create ```LIST.dat``` and enter respective values and save the file in project's directory itself, and comment out the code from ``lines 694 - 698``. 
 
+**Refer to [screenshots](https://github.com/ironghost007/Library_Management/tree/main/Screecnshots) folder for more pics of the project**
+
